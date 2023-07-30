@@ -6,7 +6,6 @@ This is my personal portfolio website built using Vite, React, Tailwind CSS, rea
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -18,9 +17,6 @@ This is my personal portfolio website built using Vite, React, Tailwind CSS, rea
 I am a passionate and skilled MCA student with a strong foundation in software development principles and a keen interest in UI/UX design. Alongside my technical expertise, I possess exceptional proficiency in digital photorealistic art. My journey in the world of web development has led me to explore various technologies, including JavaScript, Python, Node.js, Express, Axios, React, Docker, MongoDB, and SQL. I have hands-on experience with frontend technologies such as Tailwind CSS, Shadcn, MUI, Bootstrap, HTML, and CSS.
 
 As a quick learner and a creative problem solver, I am eager to collaborate on projects that challenge me to push the boundaries of innovation. Through my portfolio, I aim to showcase my accomplishments, projects, and experiences to make a positive impact in the tech community.
-
-## Demo
-Visit the live portfolio website [here](livedemo).
 
 ## Features
 - Interactive 3D models powered by react-three-fiber and react-three/drei.
